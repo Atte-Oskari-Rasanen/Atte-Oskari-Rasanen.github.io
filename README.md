@@ -18,12 +18,6 @@ A Master's degree student, learning **bioinformatics** and getting used to _gith
 
 
 
-**Bold** and _Italic_ and `Code` text
-**Thickened text as a test** _and_ `other stuff`
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
