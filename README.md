@@ -18,8 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+A Master's degree student, learning **bioinformatics** and getting used to _github_. 
 
 **Bold** and _Italic_ and `Code` text
 **Thickened text as a test** _and_ `other stuff`
