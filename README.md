@@ -14,7 +14,10 @@ Syntax highlighted code block
 # Intro
 A Master's degree student, learning **bioinformatics** and getting used to _github_. 
 
-
+Codon | Protein
+------------ | -------------
+AUG | Methionine
+Content in the first column | Content in the second column
 
 
 
